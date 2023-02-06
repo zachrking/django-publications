@@ -3,11 +3,6 @@ django-publications
 
 A Django app for managing scientific publications.
 
-Screenshots
------------
-
-[![frontend][3]][1]
-[![backend][4]][2]
 
 Features
 --------
