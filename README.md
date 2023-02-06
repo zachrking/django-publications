@@ -3,19 +3,11 @@ django-publications
 
 A Django app for managing scientific publications.
 
-[![Build Status](https://travis-ci.org/lucastheis/django-publications.svg?branch=develop)](https://travis-ci.org/lucastheis/django-publications)
-[![Coverage Status](https://coveralls.io/repos/github/lucastheis/django-publications/badge.svg)](https://coveralls.io/github/lucastheis/django-publications)
-
 Screenshots
 -----------
 
 [![frontend][3]][1]
 [![backend][4]][2]
-
-[1]: https://raw.githubusercontent.com/lucastheis/django-publications/media/frontend.png
-[2]: https://raw.githubusercontent.com/lucastheis/django-publications/media/backend.png
-[3]: https://raw.githubusercontent.com/lucastheis/django-publications/media/frontend_small.png
-[4]: https://raw.githubusercontent.com/lucastheis/django-publications/media/backend_small.png
 
 Features
 --------
